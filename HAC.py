@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Apr  7 21:38:18 2019
-
-@author: Asus
-"""
 import matplotlib.pyplot as plt
 import pandas as pd
 import scipy.cluster.hierarchy as sch
